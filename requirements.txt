@@ -1,3 +1,5 @@
-pandas==0.24.2
-dash==1.12.0
-gunicorn==19.9.0
+dash==2.11.1
+dash_core_components==2.0.0
+dash_html_components==2.0.0
+pandas==2.0.0
+gunicorn
