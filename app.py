@@ -100,7 +100,7 @@ app.layout = html.Div(
                         html.Div(
                             [
                                 html.H3(
-                                    "New York Oil and Gas Production Dashboard",
+                                    "Imad's New York Oil and Gas Production Dashboard",
                                     style={"margin-bottom": "0px",
                                            "color": "white"},
                                 ),
